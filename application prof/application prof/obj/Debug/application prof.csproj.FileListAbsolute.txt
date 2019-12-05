@@ -1,0 +1,9 @@
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\obj\Debug\application prof.csprojAssemblyReference.cache
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\obj\Debug\application prof.csproj.CoreCompileInputs.cache
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\bin\Debug\application prof.exe.config
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\bin\Debug\application prof.exe
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\bin\Debug\application prof.pdb
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\bin\Debug\DLLAccess.dll
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\obj\Debug\application prof.csproj.CopyComplete
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\obj\Debug\application prof.exe
+D:\BTS SIO\PPE\Mission 8\application prof\application prof\obj\Debug\application prof.pdb
